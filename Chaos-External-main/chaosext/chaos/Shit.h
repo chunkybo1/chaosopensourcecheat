@@ -18,7 +18,7 @@ char Exit;
 void Main()
 {
         int MenuStatus{};
-        log(_xor_(" Welcome to Chaos External by Nik.#9999 and Siloe#6969!\n\n").c_str());
+        log(_xor_(" Welcome to Chaos External by --- and ----\n\n").c_str());
         Sleep(40);
         log(_xor_(" (1) - Hacks\n").c_str());
         log(_xor_(" (2) - Discord/Help\n").c_str());
